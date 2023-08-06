@@ -392,6 +392,7 @@ nav .menu .submenu .blog li:hover>a{
     transition: 0.5s linear;
     transition-delay: 0.4s;
     opacity: 0;
+    color: black;
 }
 .services_card:hover .overlay a{
     left: 50%;
